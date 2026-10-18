@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE Math 0580: Curve Graphs Master Worksheet",
+  "description": "Cambridge IGCSE Math 0580 40-question multiple-choice worksheet and exam pack for Curve Graphs (18.1–18.7), complete with LaTeX equations, integer parameters, interactive graphs, and downloadable PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
